@@ -1,0 +1,10 @@
+appcompat-v7:21.0.0': No resource found that matches the given name: attr 'android:actionModeShareDrawable'
+
+https://stackoverflow.com/questions/26431676/appcompat-v721-0-0-no-resource-found-that-matches-the-given-name-attr-andro
+
+current tags:
+    android
+    gradle
+    xamarin.android
+    android-support-library
+    android-5.0-lollipop
