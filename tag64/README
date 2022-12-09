@@ -1,0 +1,17 @@
+Error:Execution failed for task ':app:compileDebugKotlin'. > Compilation error. See log for more details
+
+https://stackoverflow.com/questions/43848845/errorexecution-failed-for-task-appcompiledebugkotlin-compilation-error
+
+current tags:
+    android
+    kotlin
+    gradle
+    build
+    gradle-kotlin-dsl
+
+recommended tags:
+    android
+    kotlin
+    gradle
+    build.gradle
+    build.gradle.kts

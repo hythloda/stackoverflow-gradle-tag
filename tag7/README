@@ -1,0 +1,18 @@
+How to add local .jar file dependency to build.gradle file?
+
+https://stackoverflow.com/questions/20700053/how-to-add-local-jar-file-dependency-to-build-gradle-file
+
+
+current tags:
+    java
+    gradle
+    dependency-management
+    build.gradle
+    gradle-eclipse
+
+recommended tags:
+    java
+    gradle
+    dependency-management
+    build.gradle
+    build.gradle.kts
