@@ -1,0 +1,13 @@
+Gradle alternate to mvn install
+
+https://stackoverflow.com/questions/6122252/gradle-alternate-to-mvn-install
+
+current tags:
+    maven-2
+    gradle
+
+recommended tags:
+    maven-2
+    gradle
+    build.gradle
+    build.gradle.kts

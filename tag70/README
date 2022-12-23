@@ -1,0 +1,15 @@
+How can I resolve the error "The minCompileSdk (31) specified in a dependency's AAR metadata" in native Java or Kotlin? [duplicate]
+
+https://stackoverflow.com/questions/69034879/how-can-i-resolve-the-error-the-mincompilesdk-31-specified-in-a-dependencys
+current tags:
+    java
+    android
+    kotlin
+    gradle
+
+recommended tags:
+    java
+    android
+    gradle
+    build.gradle
+    build.gradle.kts
