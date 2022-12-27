@@ -3,8 +3,6 @@ apply plugin: "maven"
 group = "foo"
 version = "1.0"
 
-
-
 repositories {
     mavenLocal()
 }
